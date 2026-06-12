@@ -8,7 +8,7 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </a>
-  <a href="https://www.netlify.com/" target="_blank">
+  <a href="https://barshasinghportfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
 
@@ -50,11 +50,11 @@ My_Portfolio/
 
 ## 🔗 Connect With Me
 
-* **Website:** barshasinghportfolio.netlify.app
+* **Website:** [barshasinghportfolio.netlify.app](https://barshasinghportfolio.netlify.app/)
 
-* **LinkedIn:** linkedin.com/in/barsha-singh-9193a229b/
+* **LinkedIn:** https://www.linkedin.com/in/barsha-singh-9193a229b/
 
-* **GitHub:** github.com/barsharajput
+* **GitHub:** https://github.com/barsharajput
 
 * **Email:** [barshrajput22@gmail.com](mailto:barshrajput22@gmail.com)
 
