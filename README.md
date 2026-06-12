@@ -50,12 +50,12 @@ My_Portfolio/
 
 ## 🔗 Connect With Me
 
-**Website:** barshasinghportfolio.netlify.app
+* **Website:** barshasinghportfolio.netlify.app
 
-**LinkedIn:** linkedin.com/in/barsha-singh-9193a229b/
+* **LinkedIn:** linkedin.com/in/barsha-singh-9193a229b/
 
-**GitHub:** github.com/barsharajput
+* **GitHub:** github.com/barsharajput
 
-**Email:** [barshrajput22@gmail.com](mailto:barshrajput22@gmail.com)
+* **Email:** [barshrajput22@gmail.com](mailto:barshrajput22@gmail.com)
 
 Built with passion and technical precision. Open to collaborative opportunities in software development and AI engineering.
